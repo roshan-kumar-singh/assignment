@@ -1,0 +1,20 @@
+{
+  "name": "assignment-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "express": "^4.17.1",
+    "@tensorflow/tfjs-node": "^4.4.0",
+    "@tensorflow-models/universal-sentence-encoder": "^3.0.0"
+    
+    
+  }
+}
+
